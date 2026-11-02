@@ -12,10 +12,9 @@
 
 ### ⚡ 01 / ABOUT ME
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushsapkota2010-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=12,12,18,0&title_color=00F0FF&text_color=A0A0C0&icon_color=7928CA&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushsapkota2010-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=12,12,18,0&title_color=00F0FF&text_color=A0A0C0" width="48%" />
-</p>
+
+
+<br>
 
 I am an undergraduate student pursuing **BE CSE (Hons.) with a specialization in Artificial Intelligence and Machine Learning (AIML)** at **Chandigarh University** (Expected Graduation: 2028). 
 
@@ -123,7 +122,7 @@ My core focus lies at the intersection of robust backend engineering and modern 
 ### ⚡ 05 / GITHUB ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushsapkota2010-commits&theme=tokyonight&hide_border=true&background=12,12,18,0&side_badges=true&stroke=00F0FF&ring=7928CA&fire=00F0FF&currStreakNum=00F0FF" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aayushsapkota2010-commits&theme=tokyonight&hide_border=true&background=12121200&stroke=00F0FF&ring=7928CA&fire=00F0FF&currStreakNum=00F0FF" width="100%" />
 </div>
 
 ---
